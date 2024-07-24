@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c9573202.css","mappings":"AAAA,KACI,+DAA+B,CAC/B,uBACJ","sources":["index.css"],"sourcesContent":["body {\n    background-image: url(\"bg.jpg\");\n    background-size:contain;\n}"],"names":[],"sourceRoot":""}
